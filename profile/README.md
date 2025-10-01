@@ -1,5 +1,5 @@
 # 🌊 RigasLab @ Imperial College London  
-* Applied AI · Physics-Informed AI · Turbulence *
+* Applied AI · Physics-Informed AI · Turbulence
 
 ---
 
@@ -14,9 +14,8 @@ enabling applications in **aeronautics, wind energy, transport, and the net-zero
 
 ## 🚀 Research Themes
 - **Physics-Informed Neural Networks (PINNs)** with turbulence models  
-- **Data assimilation & hybrid modelling** of nonlinear dynamics  
 - **Digital twins & real-time learning** for fluid and energy systems  
-- **Flow control** for optimising performance of complex systems
+- **Flow control** for optimising performance of complex fluid-based systems
 - **Reinforcement Learning and Model Predictive Control** for real-time/real-world applications  
 - **AI for Net Zero**: sustainable AI for energy and transport systems ([aifornetzero.co.uk](https://aifornetzero.co.uk/))
 
@@ -29,15 +28,16 @@ enabling applications in **aeronautics, wind energy, transport, and the net-zero
 | [**MZ-AE**](https://github.com/RigasLab/MZ-AE) | Mori-Zwanzig latent space Koopman closure for nonlinear autoencoder | ([RSPA Journal](https://doi.org/10.1098/rspa.2024.0259), ([Arxiv](https://arxiv.org/abs/2310.10745), 2025)  |
 | [**PINN_SA**](https://github.com/RigasLab/PINN_SA) | Turbulence-model–augmented PINNs for RANS closure | ([PRF Journal](https://doi.org/10.1103/PhysRevFluids.9.034605), [Arxiv](https://arxiv.org/abs/2306.01065), 2024)  |
 | [**RL-PM**](https://github.com/RigasLab/Square2DFlowControlDRL-PM-NARX-SB3) | Active Flow Control for Bluff Body Drag Reduction Using Reinforcement Learning with Partial Measurements | ([JFM Journal](https://doi.org/10.1017/jfm.2024.69), [Arxiv](https://arxiv.org/abs/2307.12650), 2024)  |
-
+| [**CHAROT**](https://github.com/RigasLab/charot) | RL of Chaotic Systems Control in Partially Observable Environments | ([FTC Journal](https://link.springer.com/article/10.1007/s10494-024-00632-5), 2025)  |
 👉 See all projects under [RigasLab Repositories](https://github.com/RigasLab?tab=repositories).
 
 ---
 
 ## 👥 People
-- **Dr. Georgios Rigas (PI)** — Reader (Associate Professor) in Fluid Mechanics  
+- **Dr. Georgios Rigas (PI)** — Associate Professor (Reader) in Fluid Mechanics  
   - [Imperial profile](https://profiles.imperial.ac.uk/g.rigas)  
-  - [Google Scholar](https://scholar.google.com/citations?user=fVoAkr4AAAAJ&hl=en)  
+  - [Google Scholar](https://scholar.google.com/citations?user=fVoAkr4AAAAJ&hl=en)
+  - [Research Gate](https://www.researchgate.net/profile/Georgios-Rigas-2?ev=hdr_xprf)
 
 We collaborate with postdocs, PhD students, and international partners at Imperial, ONERA, Caltech, and beyond.  
 
@@ -51,7 +51,7 @@ For a complete list, see:
 ---
 
 ## 📬 Contact
-- Lab PI: [g.rigas@imperial.ac.uk](mailto:g.rigas@imperial.ac.uk)  
+- Lab PI: [g.rigas'at'imperial.ac.uk](mailto:g.rigas@imperial.ac.uk)  
 - Department of Aeronautics, Imperial College London  
 
 
