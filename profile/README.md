@@ -16,7 +16,7 @@ enabling applications in **aeronautics, wind energy, transport, and the net-zero
 - **Physics-Informed Neural Networks (PINNs)** with turbulence models  
 - **Digital twins & real-time learning** for fluid and energy systems  
 - **Flow control** for optimising performance of complex fluid-based systems
-- **Reinforcement Learning and Model Predictive Control** for real-time/real-world applications  
+- **Reinforcement Learning (RL) and Model Predictive Control (MPC)** for real-time/real-world applications  
 - **AI for Net Zero**: sustainable AI for energy and transport systems ([aifornetzero.co.uk](https://aifornetzero.co.uk/))
 
 ---
