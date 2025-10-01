@@ -25,8 +25,8 @@ enabling applications in **aeronautics, wind energy, transport, and the net-zero
 ## 📂 Featured Projects
 | Repository | Description | Publication |
 |------------|-------------|--------|
-| [**PINN_SA**](https://github.com/RigasLab/PINN_SA) | Turbulence-model–augmented PINNs for RANS closure | (PRF, 2024)  |
-
+| [**PINN_SA**](https://github.com/RigasLab/PINN_SA) | Turbulence-model–augmented PINNs for RANS closure | ([PRF Journal](https://doi.org/10.1103/PhysRevFluids.9.034605), [Arxiv](https://arxiv.org/abs/2306.01065), 2024)  |
+| [**REACT**](https://github.com/RigasLab/REACT) | Reinforcement Learning for Environmental Adaptation and Control of Turbulence | ([Arxiv]([https://arxiv.org/abs/2306.01065](https://arxiv.org/abs/2509.11002), 2025)  |
 
 👉 See all projects under [RigasLab Repositories](https://github.com/RigasLab?tab=repositories).
 
