@@ -1,0 +1,55 @@
+# 🌊 RigasLab @ Imperial College London  
+* Applied AI · Physics-Informed AI · Turbulence *
+
+---
+
+## 🔬 About Us
+RigasLab is the research group of **Dr. Georgios Rigas** at the [Department of Aeronautics, Imperial College London](https://profiles.imperial.ac.uk/g.rigas).  
+
+We work at the intersection of **fluid mechanics**, **turbulence**, **machine learning**, and **control theory**.  
+Our mission is to develop physics-informed AI for **modelling, learning, and controlling complex systems**,  
+enabling applications in **aeronautics, wind energy, transport, and the net-zero transition**.
+
+---
+
+## 🚀 Research Themes
+- **Physics-Informed Neural Networks (PINNs)** with turbulence models  
+- **Data assimilation & hybrid modelling** of nonlinear dynamics  
+- **Digital twins & real-time learning** for fluid and energy systems  
+- **Flow control** for optimising performance of complex systems
+- **Reinforcement Learning and Model Predictive Control** for real-time/real-world applications  
+- **AI for Net Zero**: sustainable AI for energy and transport systems ([aifornetzero.co.uk](https://aifornetzero.co.uk/))
+
+---
+
+## 📂 Featured Projects
+| Repository | Description | Publication |
+|------------|-------------|--------|
+| [**PINN_SA**](https://github.com/RigasLab/PINN_SA) | Turbulence-model–augmented PINNs for RANS closure | (PRF, 2024)  |
+
+
+👉 See all projects under [RigasLab Repositories](https://github.com/RigasLab?tab=repositories).
+
+---
+
+## 👥 People
+- **Dr. Georgios Rigas (PI)** — Reader (Associate Professor) in Fluid Mechanics  
+  - [Imperial profile](https://profiles.imperial.ac.uk/g.rigas)  
+  - [Google Scholar](https://scholar.google.com/citations?user=fVoAkr4AAAAJ&hl=en)  
+
+We collaborate with postdocs, PhD students, and international partners at Imperial, ONERA, Caltech, and beyond.  
+
+---
+
+## 📖 Publications
+For a complete list, see:  
+- [Google Scholar](https://scholar.google.com/citations?user=fVoAkr4AAAAJ&hl=en)  
+
+
+---
+
+## 📬 Contact
+- Lab PI: [g.rigas@imperial.ac.uk](mailto:g.rigas@imperial.ac.uk)  
+- Department of Aeronautics, Imperial College London  
+
+
