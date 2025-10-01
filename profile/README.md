@@ -26,7 +26,7 @@ enabling applications in **aeronautics, wind energy, transport, and the net-zero
 | Repository | Description | Publication |
 |------------|-------------|--------|
 | [**REACT**](https://github.com/RigasLab/REACT) | Reinforcement Learning for Environmental Adaptation and Control of Turbulence | ([Arxiv](https://arxiv.org/abs/2509.11002), 2025)  |
-| [**MZ-AE**](https://github.com/RigasLab/MZ-AE) | Mori-Zwanzig latent space Koopman closure for nonlinear autoencoder | ([RSPA Journal](https://doi.org/10.1098/rspa.2024.0259), ([Arxiv]([https://arxiv.org/abs/2509.11002](https://arxiv.org/abs/2310.10745)), 2025)  |
+| [**MZ-AE**](https://github.com/RigasLab/MZ-AE) | Mori-Zwanzig latent space Koopman closure for nonlinear autoencoder | ([RSPA Journal](https://doi.org/10.1098/rspa.2024.0259), ([Arxiv](https://arxiv.org/abs/2310.10745), 2025)  |
 | [**PINN_SA**](https://github.com/RigasLab/PINN_SA) | Turbulence-model–augmented PINNs for RANS closure | ([PRF Journal](https://doi.org/10.1103/PhysRevFluids.9.034605), [Arxiv](https://arxiv.org/abs/2306.01065), 2024)  |
 | [**RL-PM**](https://github.com/RigasLab/Square2DFlowControlDRL-PM-NARX-SB3) | Active Flow Control for Bluff Body Drag Reduction Using Reinforcement Learning with Partial Measurements | ([JFM Journal](https://doi.org/10.1017/jfm.2024.69), [Arxiv](https://arxiv.org/abs/2307.12650), 2024)  |
 
