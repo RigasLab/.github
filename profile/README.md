@@ -42,11 +42,11 @@ enabling applications in **aeronautics, wind energy, transport, and the net-zero
   - [Research Gate](https://www.researchgate.net/profile/Georgios-Rigas-2?ev=hdr_xprf)
 
 - **PhD researchers**
-  - Roman Klopsch (2025--), Hamish Lister (co-supervisor, 2024--), Matteo Pronunzio (co-supervisor, 2024--), Junjie (Jacky) Zhang (2024--), Yekaterina (Katya) Goodwin (2023--), Priyam Gupta (2022--), Chengwei Xia (2021--), Flavio Savarino (2021--)
+  - Roman Klopsch (2025–), Hamish Lister (co-supervisor, 2024–), Matteo Pronunzio (co-supervisor, 2024–), Junjie (Jacky) Zhang (2024–), Yekaterina (Katya) Goodwin (2023–), Priyam Gupta (2022–), Chengwei Xia (2021–), Flavio Savarino (2021–)
 
 - **Past memebers**
-  - Ysusuf Patel (PhD, 2020--2024), Arthur Poullain (PhD, 2020--2024), Clement Scherding (PhD, 2020--2024), Taihang Zhu (2019--2023)
-  - Xianyang Jiang (PDRA, 2024--2025), Anton Plaksin (PDRA, 2024--2025), Isabella Fumarola (Fellow, 2024--2025), Max Weissebacher (PDRA 2024-2025), Luca Boscagli (PDRA 2024--2025), Shan-shan Ding (2021)
+  - Ysusuf Patel (PhD, 2020–2024), Arthur Poullain (PhD, 2020–2024), Clement Scherding (PhD, 2020–2024), Taihang Zhu (2019–2023)
+  - Xianyang Jiang (PDRA, 2024–2025), Anton Plaksin (PDRA, 2024–2025), Isabella Fumarola (Fellow, 2024–2025), Max Weissebacher (PDRA 2024–2025), Luca Boscagli (PDRA 2024–2025), Shan-shan Ding (2021)
     
 We collaborate with postdocs, PhD students, and international partners at Imperial and beyond.  
 
