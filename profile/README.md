@@ -46,10 +46,8 @@ enabling applications in **aeronautics, wind energy, transport, and the net-zero
 
 - **Past memebers**
   - Ysusuf Patel (PhD, 2020–2024), Arthur Poullain (PhD, 2020–2024), Clement Scherding (PhD, 2020–2024), Taihang Zhu (2019–2023)
-  - Xianyang Jiang (PDRA, 2024–2025), Anton Plaksin (PDRA, 2024–2025), Isabella Fumarola (Fellow, 2024–2025), Max Weissebacher (PDRA 2024–2025), Luca Boscagli (PDRA 2024–2025), Shan-shan Ding (2021)
+  - Xianyang Jiang (PDRA, 2024–2025), Anton Plaksin (PDRA, 2024–2025), Isabella Fumarola (Fellow, 2023–2025), Max Weissebacher (PDRA 2023–2025), Luca Boscagli (PDRA 2024–2025), Shan-shan Ding (2021)
     
-We collaborate with postdocs, PhD students, and international partners at Imperial and beyond.  
-
 ---
 
 ## 📖 Publications
